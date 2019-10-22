@@ -24,10 +24,10 @@ Unchan was created by omegasisters.
 
 
 ## 20181210-001
-![Unchan 9man](/20181216.no100.unchan.9man/20181209.001.png)
+![Unchan 9man](/20181216.9man/20181209.001.png)
 
 ## 20181117-001
-![Unchan 8man](/20181114/congraturations.20181117-001.png)
+![Unchan 8man](/20181114.8man/congraturations.20181117-001.png)
 
 ## 20181014-001
 ![the first](/20181014.the.first/20181014.001.png)
